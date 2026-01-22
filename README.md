@@ -5,7 +5,7 @@ A tiny portable Windows taskbar utility to control your desktop screen orientati
 Newer versions of the Intel® Graphics Command Center no longer support rotating the desktop screen orientation with hotkeys.
 This program is designed to emulate that feature.
 
-(P.S. It uses the standard Windows API, so it should work with most graphics cards, not just Intel.)
+(P.S. This program uses the standard Windows API, so it should work with most graphics cards, not just Intel.)
 
 
 ### Screenshot
