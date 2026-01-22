@@ -15,7 +15,7 @@ This program is designed to emulate that feature.
 
 ### Building
 1.  Clone this repo.
-2.  Open `ScreenRotator.sln` in Visual Studio.
+2.  Open `ScreenRotator.slnx` in Visual Studio.
 3.  Set to **Release / x86**.
 4.  Hit Build.
 
