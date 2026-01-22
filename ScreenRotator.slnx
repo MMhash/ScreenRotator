@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ScreenRotator.vcxproj" Id="41ea1bf2-c3b0-4149-8aff-f9e4cd0d8e4b" />
+</Solution>
